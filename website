@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>POGI SI BRIELLE 😎</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>POGI SI BRIELLE 😎</h1>
+  <h2>Welcome to malikrizzler.rizz</h2>
+
+  <section>
+    <h3>🔥 Rizz Lines</h3>
+    <ul>
+      <li>“are you google? 'cause you got everything i'm looking for.”</li>
+      <li>“i’m not a photographer but i can picture us together.”</li>
+      <li>“are you wi-fi? 'cause i'm feeling a connection.”</li>
+    </ul>
+  </section>
+
+  <section>
+    <h3>🔥 Roast Lines</h3>
+    <ul>
+      <li>“your face makes onions cry.”</li>
+      <li>“you have something on your chin… no, the third one down.”</li>
+      <li>“if i wanted to hear from someone useless, i’d talk to my pillow.”</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>👑 Site made by Malik Rizzler | 2025</p>
+  </footer>
+</body>
+</html>
